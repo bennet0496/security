@@ -1,0 +1,6 @@
+[submodule "lib/telebot"]
+	path = lib/telebot
+	url = https://github.com/smartnode/telebot
+[submodule "lib/json-c"]
+	path = lib/json-c
+	url = https://github.com/json-c/json-c
